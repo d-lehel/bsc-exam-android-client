@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../Data/study_files/gazdasagi_informatika/allamvizsga/source code/shareAppKotlin/app/src/main/res/layout/activity_login.xml" value="0.35572916666666665" />
+        <entry key="../../../../Data/study_files/gazdasagi_informatika/allamvizsga/source code/shareAppKotlin/app/src/main/res/layout/activity_main.xml" value="0.35572916666666665" />
+        <entry key="../../../../Data/study_files/gazdasagi_informatika/allamvizsga/source code/shareAppKotlin/app/src/main/res/layout/activity_register.xml" value="0.35572916666666665" />
+        <entry key="../../../../Documents/gazdasagi_informatika/allamvizsga/01_source code/shareAppKotlin/app/src/main/res/layout/activity_add_product.xml" value="0.5" />
+        <entry key="../../../../Documents/gazdasagi_informatika/allamvizsga/01_source code/shareAppKotlin/app/src/main/res/layout/activity_details.xml" value="0.39427083333333335" />
+        <entry key="../../../../Documents/gazdasagi_informatika/allamvizsga/01_source code/shareAppKotlin/app/src/main/res/layout/activity_edit_product.xml" value="0.39427083333333335" />
+        <entry key="../../../../Documents/gazdasagi_informatika/allamvizsga/01_source code/shareAppKotlin/app/src/main/res/layout/activity_home.xml" value="0.67" />
+        <entry key="../../../../Documents/gazdasagi_informatika/allamvizsga/01_source code/shareAppKotlin/app/src/main/res/layout/activity_login.xml" value="0.39427083333333335" />
+        <entry key="../../../../Documents/gazdasagi_informatika/allamvizsga/01_source code/shareAppKotlin/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="../../../../Documents/gazdasagi_informatika/allamvizsga/01_source code/shareAppKotlin/app/src/main/res/layout/activity_message_details.xml" value="0.39427083333333335" />
+        <entry key="../../../../Documents/gazdasagi_informatika/allamvizsga/01_source code/shareAppKotlin/app/src/main/res/layout/activity_my_products.xml" value="0.39427083333333335" />
+        <entry key="../../../../Documents/gazdasagi_informatika/allamvizsga/01_source code/shareAppKotlin/app/src/main/res/layout/activity_profile.xml" value="0.39427083333333335" />
+        <entry key="../../../../Documents/gazdasagi_informatika/allamvizsga/01_source code/shareAppKotlin/app/src/main/res/layout/activity_register.xml" value="0.39427083333333335" />
+        <entry key="../../../../Documents/gazdasagi_informatika/allamvizsga/01_source code/shareAppKotlin/app/src/main/res/layout/activity_set_location.xml" value="0.39427083333333335" />
+        <entry key="../../../../Documents/gazdasagi_informatika/allamvizsga/01_source code/shareAppKotlin/app/src/main/res/layout/activity_show_messages.xml" value="0.39427083333333335" />
+        <entry key="../../../../Documents/gazdasagi_informatika/allamvizsga/01_source code/shareAppKotlin/app/src/main/res/layout/activity_show_profile.xml" value="0.39427083333333335" />
+        <entry key="../../../../Documents/gazdasagi_informatika/allamvizsga/01_source code/shareAppKotlin/app/src/main/res/layout/one_list_row.xml" value="0.33" />
+        <entry key="../../../../Documents/gazdasagi_informatika/allamvizsga/01_source code/shareAppKotlin/app/src/main/res/layout/one_message_list_row.xml" value="0.39427083333333335" />
+        <entry key="../../../../Documents/gazdasagi_informatika/allamvizsga/01_source code/shareAppKotlin/app/src/main/res/layout/one_product_list_row.xml" value="0.39427083333333335" />
+        <entry key="../../../../Documents/gazdasagi_informatika/allamvizsga/01_source code/shareAppKotlin/app/src/main/res/xml/fileprovider.xml" value="0.317481884057971" />
+        <entry key="../../../../Documents/gazdasagi_informatika/allamvizsga/source code/shareAppKotlin/app/src/main/res/layout/activity_details.xml" value="0.365036231884058" />
+        <entry key="../../../../Documents/gazdasagi_informatika/allamvizsga/source code/shareAppKotlin/app/src/main/res/layout/activity_home.xml" value="0.35625" />
+        <entry key="../../../../Documents/gazdasagi_informatika/allamvizsga/source code/shareAppKotlin/app/src/main/res/layout/activity_login.xml" value="0.35625" />
+        <entry key="../../../../Documents/gazdasagi_informatika/allamvizsga/source code/shareAppKotlin/app/src/main/res/layout/activity_main.xml" value="0.35625" />
+        <entry key="../../../../Documents/gazdasagi_informatika/allamvizsga/source code/shareAppKotlin/app/src/main/res/layout/activity_profile.xml" value="0.33" />
+        <entry key="../../../../Documents/gazdasagi_informatika/allamvizsga/source code/shareAppKotlin/app/src/main/res/layout/activity_register.xml" value="0.35625" />
+        <entry key="../../../../Documents/gazdasagi_informatika/allamvizsga/source code/shareAppKotlin/app/src/main/res/layout/activity_show_profile.xml" value="0.35625" />
+        <entry key="../../../../Documents/gazdasagi_informatika/allamvizsga/source code/shareAppKotlin/app/src/main/res/layout/one_list_row.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_add_product.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_details.xml" value="0.75" />
+        <entry key="app/src/main/res/layout/activity_edit_product.xml" value="0.3269927536231884" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.3278985507246377" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3269927536231884" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.3269927536231884" />
+        <entry key="app/src/main/res/layout/activity_message_details.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_my_products.xml" value="0.3269927536231884" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.3278985507246377" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.3278985507246377" />
+        <entry key="app/src/main/res/layout/activity_set_location.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_show_messages.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_show_profile.xml" value="0.3278985507246377" />
+        <entry key="app/src/main/res/layout/one_list_row.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/one_message_list_row.xml" value="0.3269927536231884" />
+        <entry key="app/src/main/res/layout/one_product_list_row.xml" value="1.0" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

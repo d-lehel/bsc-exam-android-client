@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.LoginActivity">
+
+    <ImageView
+        android:id="@+id/login_logo"
+        android:layout_width="251dp"
+        android:layout_height="250dp"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="80dp"
+        android:rotationX="25"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logo" />
+
+    <Button
+        android:id="@+id/login_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="128dp"
+        android:layout_marginTop="16dp"
+        android:text="bejelntkezés"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/login_checkBox" />
+
+    <EditText
+        android:id="@+id/login_input_email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="108dp"
+        android:ems="10"
+        android:hint="email"
+        android:inputType="textPersonName"
+        android:text="kiss_zalan@test.com"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/login_logo" />
+
+    <EditText
+        android:id="@+id/login_input_password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:ems="10"
+        android:hint="password"
+        android:inputType="textPassword"
+        android:text="password"
+        app:layout_constraintStart_toStartOf="@+id/login_input_email"
+        app:layout_constraintTop_toBottomOf="@+id/login_input_email" />
+
+    <CheckBox
+        android:id="@+id/login_checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="144dp"
+        android:layout_marginTop="16dp"
+        android:checked="false"
+        android:text="emlékezz rám"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/login_input_password" />
+
+    <TextView
+        android:id="@+id/zalan_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="74dp"
+        android:layout_marginTop="33dp"
+        android:text="Zalán  //"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/login_logo" />
+
+    <TextView
+        android:id="@+id/hanna_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="7dp"
+        android:text="Hanna  //"
+        app:layout_constraintBottom_toBottomOf="@+id/zalan_login"
+        app:layout_constraintStart_toEndOf="@+id/zalan_login" />
+
+    <TextView
+        android:id="@+id/bence_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="7dp"
+        android:text="Bence  //"
+        app:layout_constraintBottom_toBottomOf="@+id/hanna_login"
+        app:layout_constraintStart_toEndOf="@+id/hanna_login" />
+
+    <TextView
+        android:id="@+id/csilla_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="7dp"
+        android:text="Csilla  //"
+        app:layout_constraintBottom_toBottomOf="@+id/bence_login"
+        app:layout_constraintStart_toEndOf="@+id/bence_login" />
+
+    <TextView
+        android:id="@+id/zsofi_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="7dp"
+        android:text="Zsofi"
+        app:layout_constraintBottom_toBottomOf="@+id/csilla_login"
+        app:layout_constraintStart_toEndOf="@+id/csilla_login" />
+</androidx.constraintlayout.widget.ConstraintLayout>

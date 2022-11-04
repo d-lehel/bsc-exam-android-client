@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.EditProductActivity">
+
+    <EditText
+        android:id="@+id/edit_product_description"
+        android:layout_width="296dp"
+        android:layout_height="41dp"
+        android:layout_marginStart="66dp"
+        android:layout_marginTop="16dp"
+        android:ems="10"
+        android:hint="product description"
+        android:inputType="textPersonName"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edit_product_name" />
+
+    <EditText
+        android:id="@+id/edit_product_adress"
+        android:layout_width="296dp"
+        android:layout_height="38dp"
+        android:layout_marginStart="66dp"
+        android:layout_marginTop="16dp"
+        android:ems="10"
+        android:hint="pickup adress"
+        android:inputType="textPersonName"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edit_product_expiration" />
+
+    <EditText
+        android:id="@+id/edit_product_amount"
+        android:layout_width="296dp"
+        android:layout_height="39dp"
+        android:layout_marginStart="66dp"
+        android:layout_marginTop="16dp"
+        android:ems="10"
+        android:hint="amount"
+        android:inputType="textPersonName"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edit_product_description" />
+
+    <EditText
+        android:id="@+id/edit_product_name"
+        android:layout_width="296dp"
+        android:layout_height="41dp"
+        android:layout_marginStart="66dp"
+        android:layout_marginTop="31dp"
+        android:ems="10"
+        android:hint="product name"
+        android:inputType="textPersonName"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edit_product_image" />
+
+    <EditText
+        android:id="@+id/edit_product_expiration"
+        android:layout_width="298dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="16dp"
+        android:ems="10"
+        android:hint="expiration date"
+        android:inputType="textPersonName"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edit_product_amount" />
+
+    <ImageView
+        android:id="@+id/edit_product_image"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/pizza" />
+
+    <Button
+        android:id="@+id/edit_product_update"
+        android:layout_width="210dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="30dp"
+        android:text="változások mentése"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edit_product_adress" />
+
+    <Button
+        android:id="@+id/edit_product_delete"
+        android:layout_width="210dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="14dp"
+        android:text="termék törlése"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edit_product_update" />
+</androidx.constraintlayout.widget.ConstraintLayout>
